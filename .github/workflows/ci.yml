@@ -55,4 +55,4 @@ jobs:
           components: rustfmt, clippy
           override: true
       - name: Lint
-        run: cargo run -p lint
+        run: cargo run -p zhixya-lint-tool
