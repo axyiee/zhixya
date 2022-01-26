@@ -1,0 +1,18 @@
+[package]
+name = "zhixya_format"
+version = "0.1.0"
+edition = "2021"
+description = "A format written in Rust for loading 2D levels in games programmatically and visually."
+license = "MIT"
+license-file = "LICENSE"
+authors = ["Pedro Henrique <eu@peedro.xyz>"]
+keywords = ["bevy", "game", "level", "map"]
+homepage = "https://git.exst.fun/zhixya"
+
+[lib]
+name = "zhixya_format"
+src = "./src/lib.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html.
+
+[dependencies]
