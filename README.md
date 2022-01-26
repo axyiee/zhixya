@@ -4,9 +4,9 @@ An experimental alternative leval format written in Rust for 2D indie games.
 
 ## Table of contents
 
-* 1. [Goals](#goals)
-* 2. [Installation](#installation)
-* 3. [Credits](#credits)
+* [Goals](#goals)
+* [Installation](#installation)
+* [Credits](#credits)
 
 ## Goals
 
