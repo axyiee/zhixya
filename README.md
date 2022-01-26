@@ -12,11 +12,11 @@ An experimental alternative leval format written in Rust for 2D indie games.
 
 Our goals are to implement a format simple to read and use, while providing access in both programatically and visually ways.
 This table will be updated as we go evolving the library. Suggestions are welcome to add new features and improve existing ones.
-* [ ] Find a really good way to structure the format itself
+* [ ] Find an efficient way to structure the level format itself
 * [ ] Choose the right file format for the exported data (JSON, YAML, XML, RON, ...)
-* [ ] Implement a good way to read and write the format
-* [ ] Create a API for editing the data through I/O
-* [ ] Find a good way to implement the editor
+* [ ] Implement an efficient way to read and write the format
+* [ ] Create an API to edit the data through I/O operations
+* [ ] Find an efficient way to implement the editor
 * [ ] Make the editor cross-platform (Windows, Linux, MacOS, ...)
 
 ## Installation
