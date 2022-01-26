@@ -16,6 +16,7 @@ This table will be updated as we go evolving the library. Suggestions are welcom
 * [ ] Choose the right file format for the exported data (JSON, YAML, XML, RON, ...)
 * [ ] Implement an efficient way to read and write the format
 * [ ] Create an API to edit the data through I/O operations
+* [ ] Add serialization support to the API by using Serde
 * [ ] Find an efficient way to implement the editor
 * [ ] Make the editor cross-platform (Windows, Linux, MacOS, ...)
 
