@@ -1,6 +1,6 @@
 # Zhixya
 
-An experimental alternative leval format written in Rust for 2D indie games.
+An experimental alternative level format written in Rust for 2D indie games.
 
 ## Table of contents
 
@@ -10,7 +10,7 @@ An experimental alternative leval format written in Rust for 2D indie games.
 
 ## Goals
 
-Our goals are to implement a format simple to read and use, while providing access in both programatically and visually ways.
+Our goals are to implement a format simple to read and use, while providing access in both programmatically and visually ways.
 This table will be updated as we go evolving the library. Suggestions are welcome to add new features and improve existing ones.
 * [ ] Find an efficient way to structure the level format itself
 * [ ] Choose the right file format for the exported data (JSON, YAML, XML, RON, ...)
